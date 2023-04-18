@@ -1,3 +1,7 @@
+# Assignment Aim
+
+In this assignment, the aim was to create 3 pages: Home, Contact & Task. Home page is the landing page, Contact page contains a form for multiple users to fill with proper validations and Task page contains a to-do application where the user can add, update and detete the respective to-do item.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
